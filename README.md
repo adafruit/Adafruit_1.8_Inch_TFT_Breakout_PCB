@@ -1,6 +1,6 @@
 # 1.8" Color TFT LCD display with MicroSD Card Breakout
 
-<a href="http://www.adafruit.com/products/358"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/358"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 This lovely little display breakout is the best way to add a small, colorful and bright display to any project. Since the display uses 4-wire SPI to communicate and has its own pixel-addressable frame buffer, it can be used with every kind of microcontroller. Even a very small one with low memory and few pins available!
 
