@@ -10,3 +10,10 @@ The breakout has the TFT display soldered on (it uses a delicate flex-circuit co
 
 Of course, we wouldn't just leave you with a datasheet and a "good luck!" - [we've written a full open source graphics library that can draw pixels, lines, rectangles, circles, text and bitmaps as well as example code and a wiring tutorial](https://learn.adafruit.com/1-8-tft-display). The code is written for Arduino but can be easily ported to your favorite microcontroller!
 
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
